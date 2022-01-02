@@ -1,0 +1,4 @@
+/* https://tailwindcss.com/docs/functions-and-directives#layer */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
